@@ -1,0 +1,8 @@
+============================================================
+tell me a story :
+  input the story          : Ekta team meeting-e, Alex bar bar tar non-binary sohokormi Jamie-ke "he/him" shorbonam byabohar kore ullekh korchilen, jokhon Jamie shpashthobhabe "they/them" byaboharer tar pochondo janiyechilen. Ete Jamie-r nijeke oboidh ebong oshostikor mone hoyechilo.
+  civic sense is           : Bad Civic Sense
+  catagory of Social Norm  : social-norms
+  Consequences             : Jokhon lokera amake 'she/her' shorboname dake na tokhon birakto/raganwito/oshostikor howa.
+  Advice                   : Apnar karo linga porichoyke osomman kora uchit noy.
+============================================================

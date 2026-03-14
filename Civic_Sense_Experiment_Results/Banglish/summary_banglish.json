@@ -1,0 +1,6 @@
+{
+  "language": "Banglish",
+  "num_test_samples": 919,
+  "accuracy": 0.7465,
+  "macro_f1": 0.7424
+}

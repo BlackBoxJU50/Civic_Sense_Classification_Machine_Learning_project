@@ -1,0 +1,5 @@
+,cv_acc_mean,cv_acc_std,cv_f1_mean,cv_f1_std
+Logistic Regression,0.7469,0.007,0.7403,0.0069
+Linear SVM,0.7501,0.0066,0.7428,0.0066
+LightGBM,0.7302,0.0068,0.7227,0.0071
+mBERT,0.7671,0.0,0.7613,0.0

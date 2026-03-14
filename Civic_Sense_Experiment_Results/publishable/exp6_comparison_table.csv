@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1 (Macro),AUC
+Logistic Regression,76.13%,0.7542,0.7617,0.7561,N/A
+Linear SVM,75.84%,0.7503,0.7564,0.7523,N/A
+Random Forest,73.31%,0.7303,0.7027,0.7080,N/A
+Naive Bayes,73.20%,0.7293,0.7013,0.7066,N/A
+LightGBM,73.46%,0.7253,0.7294,0.7268,N/A
+XGBoost,70.53%,0.7021,0.6683,0.6716,N/A
+mBERT,76.71%,0.7592,0.7657,0.7613,nan

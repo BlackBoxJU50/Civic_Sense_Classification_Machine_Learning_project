@@ -1,0 +1,6 @@
+{
+  "language": "Bangla",
+  "num_test_samples": 922,
+  "accuracy": 0.7343,
+  "macro_f1": 0.7283
+}

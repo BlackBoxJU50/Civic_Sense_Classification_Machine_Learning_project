@@ -1,0 +1,8 @@
+============================================================
+tell me a story :
+  input the story          : My family planned a quiet dinner, but my friends invited me to a concert on the same night. I chose the concert, eager for the excitement and a change of pace.
+  civic sense is           : Good Civic Sense
+  catagory of Social Norm  : social-norms
+  Consequences             : not wanting to spend time with my family
+  Advice                   : It's allowed to spend time with your friends instead of your family.
+============================================================

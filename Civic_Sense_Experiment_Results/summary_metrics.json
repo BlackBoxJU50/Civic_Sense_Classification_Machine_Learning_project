@@ -1,0 +1,9 @@
+{
+  "overall_accuracy": 0.7671,
+  "macro_f1": 0.7613,
+  "macro_auc": "N/A",
+  "epochs_trained": 5,
+  "batch_size": 32,
+  "train_rows": 11076,
+  "test_rows": 2769
+}
